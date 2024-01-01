@@ -1,3 +1,4 @@
 # learn-github
 this is for learning git;
-by mahendra paliwal
+by mahendra paliwal ji
+mahendtra
